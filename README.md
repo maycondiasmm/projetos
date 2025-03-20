@@ -1,8 +1,5 @@
-# Nome do Projeto
-Uma breve descrição do projeto.
-
-## Como usar
-Instruções para rodar ou instalar.
+# SoundWave
+O projeto consiste na criação de uma loja de vinil. 
 
 ## Tecnologias usadas
 - HTML
